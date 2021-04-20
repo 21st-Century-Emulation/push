@@ -1,0 +1,7 @@
+*_temp/
+.gitignore
+test.sh
+.devcontainer/
+logs/
+Dockerfile
+nginx,conf.compiled
